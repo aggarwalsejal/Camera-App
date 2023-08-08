@@ -4,7 +4,7 @@
 <p align=center>Visit the website and try it once https://camera-cq86.onrender.com/ :heart:</p>
 
 # Functionalities:
-This project have different formatting
+This project have different functionality
 
 * we can capture the picture
 * we can record the video
