@@ -9,5 +9,5 @@ This project have different functionality
 * we can capture the picture
 * we can record the video
 * we can apply themes while clicking the picture
-* captured picture whill be avilable in the Gallery
+* captured picture will be available in the Gallery
 * captured picture can be deleted and downloaded
